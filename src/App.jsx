@@ -12,7 +12,7 @@ function App() {
       <Banner/>
       <BannerCard/>
       <InfoSection/>
-      {/* <Doctors /> */}
+      <Doctors />
     </div>
   )
 }
