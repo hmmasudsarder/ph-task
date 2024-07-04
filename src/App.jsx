@@ -1,3 +1,4 @@
+import Item from "./Components/According/Item"
 import Banner from "./Components/Banner/Banner"
 import BannerCard from "./Components/Banner/BannerCard"
 import Doctors from "./Components/Doctors/Doctors"
@@ -12,6 +13,7 @@ function App() {
       <Banner/>
       <BannerCard/>
       <InfoSection/>
+      <Item/>
       <Doctors />
     </div>
   )
