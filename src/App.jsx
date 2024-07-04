@@ -4,6 +4,8 @@ import BannerCard from "./Components/Banner/BannerCard"
 import Doctors from "./Components/Doctors/Doctors"
 import InfoSection from "./Components/InfoSection/InfoSection"
 import Navbar from "./Components/Nabvar/Navbar"
+import Service from "./Components/Service/Service"
+import ServiceCard from "./Components/Service/ServiceCard"
 
 function App() {
 
@@ -13,6 +15,8 @@ function App() {
       <Banner/>
       <BannerCard/>
       <InfoSection/>
+      <Service/>
+      <ServiceCard/>
       <Item/>
       <Doctors />
     </div>
